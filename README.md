@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristineCPham
 - 👀 I’m interested in front-end web development.
-- 🌱 I’m currently learning Linux & JavaScript.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on front-end web development projects that use HTML, CSS, and Javascript.
 
 <!---
